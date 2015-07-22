@@ -1,0 +1,9 @@
+{
+	"name": "stealDemo",
+	"version": "0.0.1",
+	"dependencies": {
+		"canjs": "~2.2.6",
+		"jquery": "~2.1.4",
+		"steal": "~0.10.5"
+	}
+}
